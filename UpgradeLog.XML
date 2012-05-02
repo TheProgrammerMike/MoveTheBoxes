@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="09-boxes">
+</Property><Property Name="Solution File" Value="C:\Users\Michael Bekesz\Desktop\School\School 07-09\School 09\Spring09\CS161ObjectOriented\PublicFolder\09-boxes\09-boxes.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Michael Bekesz\Desktop\School\School 07-09\School 09\Spring09\CS161ObjectOriented\PublicFolder\09-boxes\09-boxes.suo">
+</Property><Property Name="Date" Value="Tuesday, May 01, 2012">
+</Property><Property Name="Time" Value="21:31 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="09-boxes.sln" Description="File successfully backed up as C:\Users\Michael Bekesz\Desktop\School\School 07-09\School 09\Spring09\CS161ObjectOriented\PublicFolder\09-boxes\09-boxes.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="09-boxes.suo" Description="File successfully backed up as C:\Users\Michael Bekesz\Desktop\School\School 07-09\School 09\Spring09\CS161ObjectOriented\PublicFolder\09-boxes\09-boxes.suo.old">
+</Event><Event ErrorLevel="3" Project="09-boxes" Source="09-boxes.vcproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="09-boxes.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="09-boxes.sln" Description="Converted">
+</Event></UpgradeLog>
